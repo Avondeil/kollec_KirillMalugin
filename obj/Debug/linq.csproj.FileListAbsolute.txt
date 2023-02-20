@@ -1,0 +1,8 @@
+C:\Users\kiril\source\repos\linq\bin\Debug\linq.exe.config
+C:\Users\kiril\source\repos\linq\bin\Debug\linq.exe
+C:\Users\kiril\source\repos\linq\bin\Debug\linq.pdb
+C:\Users\kiril\source\repos\linq\obj\Debug\linq.csproj.AssemblyReference.cache
+C:\Users\kiril\source\repos\linq\obj\Debug\linq.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiril\source\repos\linq\obj\Debug\linq.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\linq\obj\Debug\linq.exe
+C:\Users\kiril\source\repos\linq\obj\Debug\linq.pdb
